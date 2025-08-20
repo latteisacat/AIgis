@@ -1,6 +1,6 @@
 # 🛡️ AIgis
 
-보안 전문가(Persona)를 기반으로 \*\*OpenAI Responses API + File Search (RAG) + MCP(ZAP 연동)\*\*를 활용한 보안 취약점 자동 분석 프로젝트입니다.
+보안 전문가(Persona)를 기반으로 *OpenAI Responses API + File Search (RAG) + MCP(ZAP 연동)를 활용한 보안 취약점 자동 분석 프로젝트입니다.
 PDF 문서를 기반으로 보안 가이드를 검색(RAG)하고, 웹 애플리케이션에 대해 정적/동적 분석(MCP + ZAP)을 수행하여 최종적으로 전문가 수준의 보고서를 생성합니다.
 
 ---
