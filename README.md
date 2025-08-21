@@ -1,3 +1,5 @@
+![캡처](AIgis_Logo.png)
+
 # 🛡️ AIgis
 
 보안 전문가(Persona)를 기반으로 *OpenAI Responses API + File Search (RAG) + MCP(ZAP 연동)를 활용한 보안 취약점 자동 분석 프로젝트입니다.
